@@ -1,4 +1,5 @@
 강의자료/
 .ipynb_checkpoints/
 *.zip
+*.h5
 tmp/
