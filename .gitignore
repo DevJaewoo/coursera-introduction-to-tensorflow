@@ -1,1 +1,4 @@
 강의자료/
+.ipynb_checkpoints/
+*.zip
+tmp/
